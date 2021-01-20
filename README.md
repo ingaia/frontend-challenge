@@ -30,8 +30,10 @@ Desenvolver a interface de uma aplicação especificada que busca personagens do
 ​
 Preferencialmente gostaríamos de ver seu código na linguagem da descrição da vaga, porém você pode utilizar qualquer linguagem, ferramenta, framework ou biblioteca com as quais se sentir confortável ou julgar necessário.
 ​
+
 Caso tenha quaisquer dúvidas sobre este teste, a qualquer momento, sinta-se à vontade para entrar em contato através do e-mail engineering-tests@ingaia.com.br
 ​
+
 Suba seu código em um repositório do GitHub e, ao final, compartilhe com o usuário: engenhariaingaia
 ​
 ​
